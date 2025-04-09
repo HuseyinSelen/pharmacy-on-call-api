@@ -18,6 +18,7 @@ It automatically retrieves up-to-date on-duty pharmacy data from official pharma
 - cURL
 - JSON
 - Web Scraping
+- API
 
 ---
 

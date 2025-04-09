@@ -32,7 +32,7 @@ It automatically retrieves up-to-date on-duty pharmacy data from official pharma
 4. You will see the list of duty pharmacies for your selected city.
 
 ## 📷 Sample Output
-![Screenshot](readme/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## 🧩 Future Development
 

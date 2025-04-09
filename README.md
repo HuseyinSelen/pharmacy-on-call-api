@@ -50,4 +50,4 @@ Mobile-friendly interface
 Feel free to contribute by submitting a pull request 🤝
 
 ## 📄 License
-MIT License © 2025
+MIT License © 2025 Hüseyin Selen
